@@ -141,6 +141,10 @@ text-align: left;
     font-family: inherit;
 }
 
+#text {
+    width: 97%;
+}
+
 .row {
     display: flex;
     margin-bottom: 20px;
